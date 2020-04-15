@@ -1,0 +1,16 @@
+legend.fontsize: 20
+
+
+figure.figsize: 10, 10
+
+axes.labelsize: 27
+axes.titlesize: 23
+
+xtick.labelsize: 27
+ytick.labelsize: 27
+
+lines.linewidth: 2
+lines.markersize: 5
+
+font.family: sans-serif
+
